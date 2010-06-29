@@ -20,6 +20,7 @@
     <connection>scm:git@github.com:juven/git-demo.git</connection>
     <developerConnection>scm:git@github.com:juven/git-demo.git</developerConnection>
   </scm>
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
